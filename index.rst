@@ -7,7 +7,7 @@ Welcome to Math 6110 -- Introduction to Toric Varieties
 ================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
    :glob:
 
