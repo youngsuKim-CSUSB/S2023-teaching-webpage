@@ -7,6 +7,10 @@ Linear Algebra
 
 For vector spaces, assume all vector spaces are over the reals :math:`\mathbb{R}`. 
 
+You may use the following book for a reference. 
+
+* Axler, S. (2015). Linear Algebra Done Right (3rd ed. 2015.). Springer International Publishing. `Link <https://csu-sb.primo.exlibrisgroup.com/permalink/01CALS_USB/122a7o7/alma991011070947602916>`_
+
 - finite dimensional vector space; in the sequel, you may assume that all vector spaces are of finite dimensional. 
 
     - What is the dimension of a vector space?
@@ -31,6 +35,10 @@ Abstract Algebra
 ================
 
 For those who have experienced only group theory, replace the word *ring* by :math:`\mathbb{Z}` the integer ring, which is also an abelian group under addition.
+
+You may use the following book for a reference. 
+
+* Rotman, J. J. (1998). Galois theory (2nd ed.). Springer. `Link <https://csu-sb.primo.exlibrisgroup.com/permalink/01CALS_USB/1nhgh2e/cdi_globaltitleindex_catalog_18054724>`_
 
 - ring (or group) homomorphism
 - fact: the kernel of a ring (or a group) homomorphism is an ideal (or a subgroup). 

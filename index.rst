@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 Welcome to Math 6110 -- Introduction to Toric Varieties
-================================
+================================================================
 
 .. toctree::
    :maxdepth: 1
@@ -12,10 +12,11 @@ Welcome to Math 6110 -- Introduction to Toric Varieties
    :glob:
 
    reviews*
+   references*
 
 
 Indices and tables
-==================
+==================================================
 
 * :ref:`genindex`
 * :ref:`modindex`
