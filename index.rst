@@ -9,9 +9,11 @@ Welcome to Math 6110 -- Introduction to Toric Varieties
 .. toctree::
    :maxdepth: 1
    :caption: Contents:
+   :numbered:
    :glob:
 
    reviews*
+   overview*
    references*
 
 

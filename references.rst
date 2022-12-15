@@ -9,3 +9,9 @@ References
 
 
 - Rotman, J. J. (1998). Galois theory (2nd ed.). Springer. `Link3 <https://csu-sb.primo.exlibrisgroup.com/permalink/01CALS_USB/1nhgh2e/cdi_globaltitleindex_catalog_18054724>`_
+
+
+.. :::{note}
+.. :class: margin
+.. This note will be in the margin!
+.. :::
