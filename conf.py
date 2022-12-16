@@ -9,7 +9,7 @@
 project = 'Math 6110 Introduction to Toric Varieties'
 copyright = '2022, Youngsu Kim'
 author = 'Youngsu Kim'
-release = 'v0'
+release = ''
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
