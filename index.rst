@@ -13,7 +13,7 @@ Welcome to Math 6110 -- Introduction to Toric Varieties
    :glob:
 
    reviews*
-   overview*
+   .. overview*
    references*
 
 
