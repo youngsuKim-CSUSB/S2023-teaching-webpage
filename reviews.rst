@@ -2,6 +2,8 @@
 Preliminaries
 *************
 
+There is a list of suggested :doc:`exercises <exercises>`.
+
 Linear Algebra
 ==============
 
@@ -11,7 +13,7 @@ For vector spaces, assume all vector spaces are over the reals :math:`\mathbb{R}
 
   You may use the following book for a reference. 
 
-  | Axler, S. (2015). Linear Algebra Done Right (3rd ed. 2015.). Springer International Publishing, `Library link <https://csu-sb.primo.exlibrisgroup.com/permalink/01CALS_USB/122a7o7/alma991011070947602916>`_.
+  | Axler, S. (2015). Linear Algebra Done Right (3rd ed. 2015.). Springer International Publishing, `Pfau library <https://csu-sb.primo.exlibrisgroup.com/permalink/01CALS_USB/122a7o7/alma991011070947602916>`_.
 
 - finite dimensional vector space; in the sequel, you may assume that all vector spaces are of finite dimensional. 
 

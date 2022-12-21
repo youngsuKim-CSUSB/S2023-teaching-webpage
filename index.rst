@@ -13,8 +13,10 @@ Welcome to Math 6110 -- Introduction to Toric Varieties
    :glob:
 
    reviews*
+   exercises*
    .. overview*
    references*
+   license*
 
 
 Indices and tables

@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Math 6110 Introduction to Toric Varieties'
+project = 'S2023 Math 6110'
 copyright = '2022, Youngsu Kim'
 author = 'Youngsu Kim'
 release = ''
