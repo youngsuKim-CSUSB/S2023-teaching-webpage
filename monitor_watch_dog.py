@@ -1,6 +1,7 @@
 # https://stackoverflow.com/questions/32923451/how-to-run-an-function-when-anything-changes-in-a-dir-with-python-watchdog
 # import sys
 import subprocess
+import shutil, os
 import time
 import logging
 from watchdog.observers import Observer
@@ -8,6 +9,8 @@ from watchdog.events import LoggingEventHandler
 
 class Event(LoggingEventHandler):
     def dispatch(self, event):
+        os.listdir(./source)
+        # subprocess.run(["cp","./source/*.md", "."])
         subprocess.run(["sphinx-build",".","_build"])
 
 if __name__ == "__main__":
@@ -15,7 +18,7 @@ if __name__ == "__main__":
                         format='%(asctime)s - %(message)s',
                         datefmt='%Y-%m-%d %H:%M:%S')
     # path = sys.argv[1] if len(sys.argv) > 1 else '.'
-    path = './'
+    path = './source'
     event_handler = Event()
     observer = Observer()
     observer.schedule(event_handler, path, recursive=True)
