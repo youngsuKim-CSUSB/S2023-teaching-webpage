@@ -19,9 +19,9 @@ Welcome to Math 6110 -- Introduction to Toric Varieties
    license*
 
 
-Indices and tables
-==================================================
+.. Indices and tables
+.. ==================================================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. * :ref:`genindex`
+.. * :ref:`modindex`
+.. * :ref:`search`
